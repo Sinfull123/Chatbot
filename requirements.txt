@@ -1,0 +1,8 @@
+openai
+python-dotenv
+colorama
+time
+virtualenv
+openpyxl
+pandas
+csv
